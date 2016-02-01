@@ -98,7 +98,7 @@ names(topNamesFM2K)[c(4:6)]<-c('new.Babies', 'F.Rank', 'M.Rank'); head(topNamesF
 
 [5]: https://www.ssa.gov/oact/babynames/background.html
 [6]: https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
-[7]: https://github.com/blackszu/DevDataProduct_Shiny
+[7]: https://github.com/blackszu/ShinyAppUnisexName
 
 
 
