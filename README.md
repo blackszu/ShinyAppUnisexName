@@ -1,8 +1,8 @@
-# DevDataProduct_Shiny
+# Shiny App - Unixsex Name
 Coursera Developing Data Product Assignment
 
 
-The Unisex Shiny App : ui.R / server.R : for 
+The Unisex Shiny App : ui.R / server.R
 
 The Slidify Slides : index.Rmd / index.md / index.html
 
