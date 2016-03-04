@@ -1,5 +1,5 @@
 # Shiny App - Unisex Name
-Coursera Developing Data Product Assignment
+Coursera Assignment - Developing Data Product 
 
 
 The Unisex Shiny App : ui.R / server.R
