@@ -1,4 +1,4 @@
-# Shiny App - Unixsex Name
+# Shiny App - Unisex Name
 Coursera Developing Data Product Assignment
 
 
