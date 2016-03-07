@@ -27,3 +27,10 @@ Files included in this repository:
 3. Data Processing R Code: babyNamesDataProcessing.r
 
 4. Raw Data: ./data/names.zip, babyNames.rds, topNamesFM2K.rds
+ 
+Data Source: 
+
+The dataset was obtained from the Data.gov: https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
+
+The data (name, year of birth, sex and number) are from a 100 percent sample of Social Security card applications spanning 1880 to 2014. Social Security Administration: https://www.ssa.gov/oact/babynames/background.html
+
