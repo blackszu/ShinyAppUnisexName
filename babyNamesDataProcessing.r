@@ -1,3 +1,6 @@
+# Data processing for Social Security's "babynames" dataset from Data.gov
+#Author: S. Wu
+
 # Check and load required R packages
 pkg<-c("knitr", "ggplot2", "grid", "dplyr", "tidyr", "shiny", "slidify", "rCharts", "googleVis")
 pkgCheck<-pkg %in% rownames(installed.packages())
