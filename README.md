@@ -3,6 +3,7 @@
 
 **Author: S. Wu**
 
+
 This is a course assignment for Developing Data Product, Data Science Specialization by Johns Hopkins University via Coursera
 
 Project Goal:
