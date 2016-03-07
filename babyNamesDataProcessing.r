@@ -1,4 +1,4 @@
-# Data processing for Social Security's "babynames" dataset from Data.gov
+# Data processing for Social Security Administration's "babynames" dataset, downloaded from Data.gov
 # Author: S. Wu
 
 # Check and load required R packages
