@@ -13,16 +13,16 @@ Project Goal:
 
 Url: 
 
-Unisex Shiny App: https://blackszu.shinyapps.io/ioUnisexNameApp/
+1. Unisex Shiny App: https://blackszu.shinyapps.io/ioUnisexNameApp/
 
-Pitch Presentation: http://blackszu.github.io/ShinyAppUnisexName
+2. Pitch Presentation: http://blackszu.github.io/ShinyAppUnisexName
 
 Files included in this repository:
 
-Unisex Shiny App Code: ui.R / server.R
+1. Unisex Shiny App Code: ui.R / server.R
 
-Pitch Presentation: index.Rmd / index.md / index.html
+2. Pitch Presentation: index.Rmd / index.md / index.html
 
-Data Processing R Code: babyNamesDataProcessing.r
+3. Data Processing R Code: babyNamesDataProcessing.r
 
-Raw Data: ./data/names.zip, babyNames.rds, topNamesFM2K.rds
+4. Raw Data: ./data/names.zip, babyNames.rds, topNamesFM2K.rds
